@@ -3,4 +3,4 @@ Repository for solved Python challenges and basic scripts that come in handy for
 
 This will be an evolving repository and I will keep adding/updating scripts over time.
 
-If you wish to contribute or spot improvements/comments, please feel free to reach out to me and I would love both feedback and critique :-)
+If you wish to contribute or spot improvements/comments, please feel free to reach out to me and I would love the feedback & critique :-)
